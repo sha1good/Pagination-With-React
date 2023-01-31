@@ -1,0 +1,45 @@
+.search{
+    padding: 20px;
+}
+
+.searchTitle{
+    font-weight: 300;
+    color: gray;
+    font-size: 50px;
+    margin: 20px;
+}
+
+.top{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    gap: 50px;
+}
+
+.bottom{
+    flex: 1;
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    gap: 50px;
+}
+
+.input{
+    padding: 10px 20px;
+    border-radius: 5px;
+    outline: none;
+    border:  1px solid gray;
+    width: 200px;
+}
+
+
+.submitButton{
+    width: 250px;
+    padding: 10px 20px;
+    background-color: rgb(94, 91, 91);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
